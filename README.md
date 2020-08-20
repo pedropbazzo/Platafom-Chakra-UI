@@ -6,6 +6,6 @@
 
 ![alt text](https://github.com/pedropbazzo/Plataforma-Chakra-UI/blob/master/rocketseat.PNG)
 
-## Lindo do deploy
+## Link do deploy
 
 # https://plataforma-chakra-ui.vercel.app/
